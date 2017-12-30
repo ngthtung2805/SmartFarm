@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588754384839",
+    "firebase_url": "https://mynewfirebase-5b33c.firebaseio.com",
+    "project_id": "mynewfirebase-5b33c",
+    "storage_bucket": "mynewfirebase-5b33c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588754384839:android:a7f76cd77863b883",
+        "android_client_info": {
+          "package_name": "com.smartfarm.smartfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588754384839-csgujtjfi9b009mko8btc91us2erk2eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartfarm.smartfarm",
+            "certificate_hash": "cf8bd0d5824eb3c01afcdfc282b4ded990c0cbed"
+          }
+        },
+        {
+          "client_id": "588754384839-ue9mthjpmmceaclnv8ga6urghnp9049a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpTfswpf6TME3qPrINGLjxiM3ZX9omTFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588754384839-ue9mthjpmmceaclnv8ga6urghnp9049a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
